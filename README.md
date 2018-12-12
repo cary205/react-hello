@@ -1,3 +1,5 @@
+[![Build Status](https://cloud.drone.io/api/badges/cary205/react-hello/status.svg)](https://cloud.drone.io/cary205/react-hello)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
